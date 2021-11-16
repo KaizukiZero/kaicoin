@@ -1,0 +1,17 @@
+{
+  "name": "blockchain-kaizuki",
+  "version": "1.0.0",
+  "description": "blockchain@kaizuki",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Kaizuki-Zero",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
